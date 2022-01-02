@@ -1,5 +1,4 @@
 # Dashboard Rapport
-###### (Maxine LAMA & Valentin DUMAS)
 ------------------------------------------
 
 ## Description du sujet 
@@ -55,3 +54,6 @@ Le fichier dashboard.py est séparé en 3 parties principale :
   La creation des différentes figures  
   La création du layout de l'application dash permettant l'affichange de nos figure sur une page html structurée.  
   
+  
+ ---------
+ ###### (Maxine LAMA & Valentin DUMAS)

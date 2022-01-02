@@ -1,4 +1,4 @@
-# Dashboard Rapport (Maxine LAMA & Valentin DUMAS)
+# Dashboard Rapport #######(Maxine LAMA & Valentin DUMAS)
 ------------------------------------------
 
 ## Description du sujet 
@@ -23,7 +23,20 @@ Nous avons décidé que mener ce projet sur l'effecrtif médical dans les diffé
 __PREREQUIS__ :   
 
 1.Télécharger le fichier compressé sur votre machine (en local) , décompressez-le et placer le dans un autre répertoire au besoin.  
-2.Ouvrez un terminal de commandes afin entrer les commandes nécessaires a l'execution du fichier  :  
+2.Ouvrez un terminal de commandes afin entrer les commandes nécessaires a l'execution du fichier  : 
+
+●	pip install dash  
+
+●	pip install plotly  
+
+●	pip install pandas  
+
+●	pip install numpy  
+
+●	pip install dash
+
+●	pip install matplotlib
+
 3.Placer vous à l'endroit ou vous avez placer le dossier télécharger précédement.  
 4.Taper la commande suivant : > python dashboard.py   
 5.Ouvrez votre navigateur et aller à l'adresse suivante : > http://127.0.0.1:8050/  

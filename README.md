@@ -38,7 +38,7 @@ __PREREQUIS__ :
 ●	pip install matplotlib
 
 3.Placer vous à l'endroit ou vous avez placer le dossier télécharger précédement.  
-4.Taper la commande suivant : > python dashboard.py   
+4.Taper la commande suivant : > python main.py   
 5.Ouvrez votre navigateur et aller à l'adresse suivante : > http://127.0.0.1:8050/  
 
 
